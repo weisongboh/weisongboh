@@ -1,7 +1,7 @@
 ### Hi there, I'm Wei Song (Wilson) 👋
 
 ## About Me
-- 🔭 I’m currently working on kickstarting my career as a Software Engineer
+- 🔭 I’m currently working on kickstarting my career as a Software Engineer.
 - 🌱 I’m currently learning Javascript and Machine Learning algorithms.
 - 💬 Ask me about ...
 - 😄 2020 Goals: Contribute to Open Source projects.
@@ -10,7 +10,14 @@
 ### Connect with me:
 <a href="https://www.facebook.com/eTWSong/" target="_blank"><img src="https://github.com/weisongboh/weisongboh/blob/main/Icons/facebook.png" alt="Facebook" width="50" height="50" border="10" /></a> <a href="https://www.linkedin.com/in/wei-song-teo-71392078/" target="_blank"><img src="https://github.com/weisongboh/weisongboh/blob/main/Icons/linked%20in.png" alt="LinkedIn" width="50" height="50" border="10" /></a> <a href="https://www.instagram.com/wsfood_diary/" target="_blank"><img src="https://github.com/weisongboh/weisongboh/blob/main/Icons/insta_colour.png" alt="Instagram" width="50" height="50" border="10" /></a> <a href="https://www.youtube.com/channel/UCITGN_oIIU9TujYGMAS-GcA" target="_blank"><img src="https://github.com/weisongboh/weisongboh/blob/main/Icons/youtube.png" alt="YouTube" width="50" height="50" border="10" /></a>
 
-
+### Languages, Tools, and skills:
+- Python
+- VBA
+- Powershell
+- Unix script
+- Linux
+- Network Fundamentals
+- Network Configuration (L2 & L3)
 
 
 
