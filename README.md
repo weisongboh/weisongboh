@@ -3,7 +3,6 @@
 ## About Me
 - 🔭 I’m currently working on kickstarting my career as a Software Engineer.
 - 🌱 I’m currently learning Javascript and Machine Learning algorithms.
-- 💬 Ask me about ...
 - 😄 2020 Goals: Contribute to Open Source projects.
 - ⚡ Fun fact: I fell from a 15M cliff and survived.
 
