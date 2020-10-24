@@ -8,10 +8,10 @@
 - ⚡ Fun fact: I fell from a 15M cliff and survived.
 
 ### Connect with me:
-<a href="https://www.facebook.com/eTWSong/" target="_blank"><img src="https://github.com/weisongboh/weisongboh/blob/main/Icons/facebook.png" alt="Facebook" width="100" height="100" border="10" /></a>
+<a href="https://www.facebook.com/eTWSong/" target="_blank"><img src="https://github.com/weisongboh/weisongboh/blob/main/Icons/facebook.png" alt="Facebook" width="50" height="50" border="10" /></a> <a href="https://www.linkedin.com/in/wei-song-teo-71392078/" target="_blank"><img src="https://github.com/weisongboh/weisongboh/blob/main/Icons/linked%20in.png" alt="LinkedIn" width="50" height="50" border="10" /></a> <a href="https://www.instagram.com/wsfood_diary/" target="_blank"><img src="https://github.com/weisongboh/weisongboh/blob/main/Icons/insta_colour.png" alt="Instagram" width="50" height="50" border="10" /></a> <a href="https://www.youtube.com/channel/UCITGN_oIIU9TujYGMAS-GcA" target="_blank"><img src="https://github.com/weisongboh/weisongboh/blob/main/Icons/youtube.png" alt="YouTube" width="50" height="50" border="10" /></a>
 
 
-![alt text](https://github.com/weisongboh/weisongboh/blob/main/Icons/facebook.png) ![alt text](https://github.com/weisongboh/weisongboh/blob/main/Icons/facebook.png) ![alt text](https://github.com/weisongboh/weisongboh/blob/main/Icons/facebook.png) ![alt text]()
+
 
 
 <!--
