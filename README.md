@@ -18,7 +18,7 @@
 - Network Fundamentals
 - Network Configuration (L2 & L3)
 
-
+Icons Designed by myriammira / Freepik
 
 <!--
 **weisongboh/weisongboh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
