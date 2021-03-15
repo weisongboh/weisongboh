@@ -1,7 +1,7 @@
 ### Hi there, I'm Wei Song (Wilson) 👋
 
 ## About Me
-- 🔭 I’m currently working on kickstarting my career as a Software Engineer.
+- 🔭 I’m currently working on kickstarting my career as a DevOps Engineer.
 - 🌱 I’m currently learning Javascript and Machine Learning algorithms.
 - 😄 2020 Goals: Contribute to Open Source projects.
 - ⚡ Fun fact: I fell from a 15M cliff and survived.
