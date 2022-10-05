@@ -1,9 +1,9 @@
 ### Hi there, I'm Wei Song (Wilson) 👋
 
 ## About Me
-- 🔭 I’m currently working on kickstarting my career as a DevOps Engineer.
-- 🌱 I’m currently learning Javascript and understanding backend protocols.
-- 😄 2021 Goals: Publish useful tools.
+- 🔭 I’m currently working on deepening my skills as a DevOps Engineer.
+- 🌱 I’m currently playing CTFs to understand common attack surfaces and how to defend against them.
+- 😄 2022 Goals: Publish useful tools.
 - ⚡ Fun fact: I fell from a 15M cliff and survived.
 
 ### Connect with me:
